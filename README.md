@@ -5,9 +5,7 @@ Ce projet implémente un jeu de Snake en Python en utilisant des concepts de Mac
 
 ## Aperçu du Projet
 Voici un aperçu de ce à quoi ressemble le jeu :
-<video width="560" height="315" controls>
-  <source src="SNAKE.mp4" type="video/mp4">
-  Votre navigateur ne supporte pas la lecture de vidéos.
+<video src="SNAKE.mp4" width="180" controls>
 </video>
 
 ## Installation et Exécution
