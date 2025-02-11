@@ -137,7 +137,7 @@ def main():
             }
 
         while round_running:
-            clock.tick(5 if mode != "training" else 40)
+            clock.tick(15 if mode != "training" else 40)
             # Incrémentation des compteurs spécifiques selon le mode
             if mode in ["human_vs_ai", "ai_vs_ai"]:
                 step_counter1 += 1
